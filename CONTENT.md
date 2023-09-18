@@ -38,7 +38,7 @@ Wards `h2`
 
 The City of Ottawa is divided into 24 wards. Each ward has a councillor who represents the residents of that ward. `p`
 
-Map of Ottawa with ward boundaries highlighted `img`
+Map of Ottawa with wards highlighted `img`
 
 Property Taxes `h2`
 
